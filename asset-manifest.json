@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/AnalysticEye/static/css/main.30f2ab71.css",
+    "main.js": "/AnalysticEye/static/js/main.e6952e3a.js",
+    "static/media/Ml and DL model.png": "/AnalysticEye/static/media/Ml and DL model.4f825c2d4ffe9897281f.png",
+    "static/media/title.png": "/AnalysticEye/static/media/title.ce02aca684ac29fa88aa.png",
+    "static/media/prediction analytics.png": "/AnalysticEye/static/media/prediction analytics.5d8dbb2c29356def514e.png",
+    "static/media/visulization.png": "/AnalysticEye/static/media/visulization.e3ce706aa19635fddd79.png",
+    "index.html": "/AnalysticEye/index.html",
+    "main.30f2ab71.css.map": "/AnalysticEye/static/css/main.30f2ab71.css.map",
+    "main.e6952e3a.js.map": "/AnalysticEye/static/js/main.e6952e3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f2ab71.css",
+    "static/js/main.e6952e3a.js"
+  ]
+}
